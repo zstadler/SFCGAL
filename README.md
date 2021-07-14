@@ -1,3 +1,11 @@
+#### Note: Oslandia migrated from GitHub to GitLab
+This repository is now available at https://gitlab.com/Oslandia/SFCGAL
+
+See
+
+- https://github.com/Oslandia/SFCGAL/issues/230
+- https://oslandia.com/en/2020/06/19/en-oslandia-migrates-from-github-to-gitlab/
+
 SFCGAL
 ======
 
